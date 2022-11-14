@@ -22,6 +22,14 @@ body{
     background-color: white;
     color: #cd3d0f;
 }
+
+.btn-blue-reverse{
+    background-color: #d9dadc;
+    color: #2d64e6;
+}
+.btn-blue-reverse:hover{
+    background-color: white;
+}
 /* ----------HEADER---------- */
 /* Black Banner */
 div.black-banner{
