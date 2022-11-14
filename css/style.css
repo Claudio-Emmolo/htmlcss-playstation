@@ -9,6 +9,9 @@ body{
     background-size: cover;
 }
 
+.jumbo-padding{
+    padding-top: 10rem;
+}
 /* ----------HEADER---------- */
 /* Black Banner */
 div.black-banner{
@@ -37,4 +40,10 @@ section#it-take{
     color: white;
 }
 
+
+/* New Releases */
+section#new-releases{
+    background-color: #1f1f1f;
+    color: white;
+}
 /* ----------FOOTER---------- */
