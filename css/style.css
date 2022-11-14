@@ -38,4 +38,10 @@ section#jumbo{
     padding-top: 10rem;
 }
 
+/* Game Slider */
+.content-card{
+    height: 30px;
+    background-color: aqua;
+}
+
 /* ----------FOOTER---------- */
