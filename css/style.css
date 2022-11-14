@@ -59,3 +59,19 @@ section#banner-now{
 }
 
 /* ----------FOOTER---------- */
+footer{
+    background-color: #00439c;
+    color: white;
+}
+
+.play-logo-footer{
+    width: 8rem;
+}
+
+.language-logo{
+    height: 2rem;
+}
+
+.sie-logo{
+    width: 10rem;
+}
