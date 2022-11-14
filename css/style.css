@@ -1,9 +1,17 @@
 /* GENERAL */
-
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 /* ----------HEADER---------- */
+/* Black Banner */
+div.black-banner{
+    background-color: black;
+}
 
-
+div.black-banner img{
+    width: 6rem;
+}
 /* ----------MAIN---------- */
 
 
