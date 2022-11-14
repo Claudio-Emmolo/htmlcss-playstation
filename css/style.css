@@ -12,6 +12,15 @@ body{
 .jumbo-padding{
     padding-top: 10rem;
 }
+
+.btn-orange{
+    background-color: #cd3d0f;
+    border: none;
+}
+.btn-orange:hover{
+    background-color: white;
+    color: #cd3d0f;
+}
 /* ----------HEADER---------- */
 /* Black Banner */
 div.black-banner{
@@ -21,6 +30,7 @@ div.black-banner{
 div.black-banner img{
     width: 6rem;
 }
+
 
 /* Nav Bar */
 a.nav-link{
@@ -33,6 +43,9 @@ section#jumbo{
     color: white;
 }
 
+p.jumbo-p{
+    font-size: 1.1rem;
+}
 
 /* It-Take Jumbo */
 section#it-take{
@@ -64,14 +77,11 @@ footer{
     color: white;
 }
 
-.play-logo-footer{
+.play-logo-footer,
+.sie-logo{
     width: 8rem;
 }
 
 .language-logo{
     height: 2rem;
-}
-
-.sie-logo{
-    width: 10rem;
 }
