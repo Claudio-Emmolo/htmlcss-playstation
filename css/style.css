@@ -3,6 +3,16 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.my-container{
+    padding: 0 2rem;
+}
+
+.bg-set{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /* ----------HEADER---------- */
 /* Black Banner */
 div.black-banner{
@@ -12,7 +22,20 @@ div.black-banner{
 div.black-banner img{
     width: 6rem;
 }
-/* ----------MAIN---------- */
 
+/* Nav Bar */
+a.nav-link{
+    color: black
+}
+/* ----------MAIN---------- */
+/* Jumbo */
+section#jumbo{
+    background-image: url(../img/jumbo-bg.png);
+    color: white;
+}
+
+.jumbo-padding{
+    padding-top: 10rem;
+}
 
 /* ----------FOOTER---------- */
