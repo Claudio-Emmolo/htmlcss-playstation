@@ -3,10 +3,6 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.my-container{
-    padding: 0 2rem;
-}
-
 .bg-set{
     background-position: center;
     background-repeat: no-repeat;
@@ -40,7 +36,7 @@ section#jumbo{
 
 /* Game Slider */
 .content-card{
-    height: 30px;
+    height: 100px;
     background-color: aqua;
 }
 
