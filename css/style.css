@@ -30,8 +30,11 @@ section#jumbo{
     color: white;
 }
 
-.jumbo-padding{
-    padding-top: 10rem;
+
+/* It-Take Jumbo */
+section#it-take{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    color: white;
 }
 
 /* ----------FOOTER---------- */
