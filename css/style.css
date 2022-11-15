@@ -59,6 +59,7 @@ body{
 }
 
 /* Hover */
+/* Hover Scale positive*/
 .scale-hover-my{
     transition: all .5s;
 }
@@ -67,8 +68,7 @@ body{
     transform: scale(1.1);
 }
 
-
-
+/* Hover Scale negative*/
 .scale-hover-my-down{
     transition: all .5s;
 }
@@ -78,7 +78,7 @@ body{
 }
 
 
-
+/* Hover Opacity from 1 to 1.8 */
 .opacity-hover-my-neg{
     opacity: 1;
     transition: all .5s;
@@ -99,7 +99,7 @@ body{
 }
 
 
-
+/* Hover Opacity from .5 to 1 */
 .opacity-hover-my-mag{
     opacity: .5;
     transition: all .5s;
@@ -120,11 +120,12 @@ div.black-banner img{
     width: 6rem;
 }
 
-
 /* Nav Bar */
 a.nav-link{
     color: black
 }
+
+
 /* ----------MAIN---------- */
 main{
     padding-top: 6.8rem;
@@ -146,7 +147,6 @@ section#it-take{
     color: white;
 }
 
-
 /* New Releases */
 section#new-releases{
     background-color: #1f1f1f;
@@ -163,6 +163,7 @@ section#banner-now{
     background-color: #161c3b;
     color: white;
 }
+
 
 /* ----------FOOTER---------- */
 footer{
