@@ -57,6 +57,59 @@ body{
 .hover-white-btn:hover{
     border: 2px solid white;
 }
+
+/* Hover */
+.scale-hover-my{
+    transition: all .5s;
+}
+
+.scale-hover-my:hover{
+    transform: scale(1.1);
+}
+
+
+
+.scale-hover-my-down{
+    transition: all .5s;
+}
+
+.scale-hover-my-down:hover{
+    transform: scale(.8);
+}
+
+
+
+.opacity-hover-my-neg{
+    opacity: 1;
+    transition: all .5s;
+    cursor: pointer;
+}
+
+.opacity-hover-my-neg:hover{
+    opacity: .8;
+    transform: translateY(-2rem);
+
+}
+
+.opacity-hover-my-neg:hover .hover-shadow{
+    transition: all .4s;
+    box-shadow: 1px 31px 25px -5px rgba(0,0,0,0.53);
+    -webkit-box-shadow: 1px 31px 25px -5px rgba(0,0,0,0.53);
+    -moz-box-shadow: 1px 31px 25px -5px rgba(0,0,0,0.53);
+}
+
+
+
+.opacity-hover-my-mag{
+    opacity: .5;
+    transition: all .5s;
+    cursor: pointer;
+}
+
+.opacity-hover-my-mag:hover{
+    opacity: 1;
+}
+
 /* ----------HEADER---------- */
 /* Black Banner */
 div.black-banner{
