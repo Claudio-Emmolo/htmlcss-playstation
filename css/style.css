@@ -39,12 +39,18 @@ body{
 }
 
 /* -Blue reverse- */
-.btn-blue-reverse{
+.btn-blue-reverse,
+.btn-blue-reverse:hover{
     background-color: #d9dadc;
     color: #2d64e6;
 }
 
-.btn-blue-reverse:hover{
+.hover-blue-reverse-btn:hover{
+    border: 2px solid #d9dadc;
+}
+
+/* -White- */
+.hover-white-btn:hover{
     background-color: white;
 }
 /* ----------HEADER---------- */
