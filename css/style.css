@@ -13,14 +13,24 @@ body{
     padding-top: 10rem;
 }
 
+/* BUTTON */
+.hover-btn-my{
+    width: max-content;
+    padding: .2rem;
+    border: 2px solid transparent;
+}
+
+/* -Orange- */
 .btn-orange{
     background-color: #cd3d0f;
     border: none;
     color: white;
 }
-.btn-orange:hover{
-    background-color: white;
-    color: #cd3d0f;
+
+.btn-orange:hover{background-color: #cd3d0f;}
+
+.hover-orange-btn:hover{
+    border: 2px solid #cd3d0f;
 }
 
 .btn-blue-reverse{
