@@ -45,13 +45,17 @@ body{
     color: #2d64e6;
 }
 
+.btn-blue-reverse:hover{
+    background-color: #d0d0d1;
+}
+
 .hover-blue-reverse-btn:hover{
     border: 2px solid #d9dadc;
 }
 
 /* -White- */
 .hover-white-btn:hover{
-    background-color: white;
+    border: 2px solid white;
 }
 /* ----------HEADER---------- */
 /* Black Banner */
