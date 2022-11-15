@@ -27,16 +27,23 @@ body{
     color: white;
 }
 
-.btn-orange:hover{background-color: #cd3d0f;}
+.btn-orange:hover{background-color: #bd3f16;}
 
 .hover-orange-btn:hover{
     border: 2px solid #cd3d0f;
 }
 
+/* -Blue- */
+.hover-blue-btn:hover{
+    border: 2px solid #0d6efd;
+}
+
+/* -Blue reverse- */
 .btn-blue-reverse{
     background-color: #d9dadc;
     color: #2d64e6;
 }
+
 .btn-blue-reverse:hover{
     background-color: white;
 }
