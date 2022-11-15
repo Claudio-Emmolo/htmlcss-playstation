@@ -46,6 +46,10 @@ a.nav-link{
     color: black
 }
 /* ----------MAIN---------- */
+main{
+    padding-top: 6.8rem;
+}
+
 /* Jumbo */
 section#jumbo{
     background-image: url(../img/jumbo-bg.png);
